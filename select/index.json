@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Battleships",
+  "base_artist": "Heartsrevolution",
+  "createdAt": "2026-03-25T05:54:49.731342Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Battleships",
+      "artist": "Daughtry",
+      "has_synced": true,
+      "path": "select/01_Battleships_Daughtry.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Battleships (Acoustic)",
+      "artist": "Daughtry",
+      "has_synced": true,
+      "path": "select/02_Battleships_(Acoustic)_Daughtry.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Limits of Battleships",
+      "artist": "Future of the Left",
+      "has_synced": true,
+      "path": "select/03_The_Limits_of_Battleships_Future_of_the_Left.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Battleships",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/04_Battleships_Travis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Battleships",
+      "artist": "I'm from Barcelona",
+      "has_synced": true,
+      "path": "select/05_Battleships_I'm_from_Barcelona.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Battleships",
+      "artist": "Bernard Fanning",
+      "has_synced": true,
+      "path": "select/06_Battleships_Bernard_Fanning.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Battleships",
+      "artist": "The Getaway Plan",
+      "has_synced": true,
+      "path": "select/07_Battleships_The_Getaway_Plan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Battleships",
+      "artist": "Baddies",
+      "has_synced": false,
+      "path": "select/08_Battleships_Baddies.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Battleships - Acoustic Version",
+      "artist": "Daughtry",
+      "has_synced": true,
+      "path": "select/09_Battleships_-_Acoustic_Version_Daughtry.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Battleships",
+      "artist": "Baddies",
+      "has_synced": false,
+      "path": "select/10_Battleships_Baddies.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Battleships",
+      "artist": "Heartsrevolution",
+      "has_synced": true,
+      "path": "select/11_Battleships_Heartsrevolution.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Battleships",
+      "artist": "Bernard Fanning",
+      "has_synced": true,
+      "path": "select/12_Battleships_Bernard_Fanning.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Battleships",
+      "artist": "Manna",
+      "has_synced": true,
+      "path": "select/13_Battleships_Manna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Battleships",
+      "artist": "Heartsrevolution",
+      "has_synced": false,
+      "path": "select/pl_01_Battleships_Heartsrevolution.txt"
+    }
+  ]
+}
